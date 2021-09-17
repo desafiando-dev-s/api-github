@@ -1,4 +1,4 @@
-# api-githun
+# api-github
 Utilizando api do git hub
 
 1. Deve existir um endpoint para consulta de “Meus repositórios”, onde é listado todos os repositórios do CANDIDATO (você, que está lendo isso agora). 
